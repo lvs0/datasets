@@ -1,0 +1,16 @@
+{
+  "name": "linux-fr-support-synthetic-v1",
+  "domain": "administration et dépannage Linux (distributions Debian/Ubuntu/Fedora/Arch)",
+  "domain_expert": "administrateur système Linux senior",
+  "lang": "français",
+  "categories": ["réseau", "systemd", "paquets", "permissions", "stockage"],
+  "category_focus": {
+    "réseau": "diagnostic réseau (ip, ss, ping, dns, firewall nftables/ufw, VPN), problèmes de connectivité, configuration d'interfaces",
+    "systemd": "services systemd (unit files, journalctl, timers, dépendances, services qui crashent ou ne démarrent pas)",
+    "paquets": "gestion de paquets (apt, dnf, pacman), dépôts cassés, conflits de versions, dépendances, build depuis les sources",
+    "permissions": "permissions fichiers/dossiers (chmod, chown, ACL, sudoers, umask), erreurs 'permission denied', utilisateurs et groupes",
+    "stockage": "disques et système de fichiers (lsblk, mount, fstab, LVM, ext4/xfs/btrfs, espace disque, partitions, SMART)"
+  },
+  "target": 5000,
+  "batch_size": 8
+}

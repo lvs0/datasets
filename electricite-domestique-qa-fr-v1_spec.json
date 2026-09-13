@@ -1,0 +1,8 @@
+{
+  "name": "electricite-domestique-qa-fr-v1",
+  "domain": "électricité domestique et installation électrique résidentielle (normes NF C 15-100, tableaux, circuits, disjoncteurs, interrupteurs différentiels, mise à la terre, câblage, dépannage de base)",
+  "lang": "français",
+  "level": "apprenti à intermédiaire",
+  "target": 250,
+  "batch_size": 10
+}
