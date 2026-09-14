@@ -1,0 +1,21 @@
+{
+  "total_raw": 5007,
+  "unique": 3759,
+  "dup_removed": 1248,
+  "a_len_avg": 318.9,
+  "answer_vocab": 12347,
+  "diversity_score": 10.3,
+  "categories": {
+    "systemd": 857,
+    "réseau": 765,
+    "paquets": 820,
+    "permissions": 706,
+    "stockage": 611
+  },
+  "difficulties": {
+    "débutant": 1025,
+    "intermédiaire": 1646,
+    "avancé": 1088
+  },
+  "final_file": "/home/l-vs/Projets/datasets-factory/datasets/linux-fr-support-synthetic-v1.jsonl"
+}
